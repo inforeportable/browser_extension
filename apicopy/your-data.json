@@ -46,5 +46,13 @@
     "22750",
     "40755",
     "40751"
-  ]
+  ],
+  "email_group": [
+    "example1@email.com",
+    "example2@email.com"
+  ],
+  "apiConfig": {
+    "userInfoUrl": "https://authenservice.nhso.go.th/authencode/api/user-info",
+    "cookieDomain": "authenservice.nhso.go.th"
+  }
 }
