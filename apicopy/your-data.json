@@ -49,7 +49,8 @@
   ],
   "email_group": [
     "example1@email.com",
-    "example2@email.com"
+    "example2@email.com",
+    "matoonbike@gmail.com"
   ],
   "apiConfig": {
     "userInfoUrl": "https://authenservice.nhso.go.th/authencode/api/user-info",
