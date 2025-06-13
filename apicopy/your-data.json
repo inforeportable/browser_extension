@@ -56,5 +56,6 @@
   "apiConfig": {
     "userInfoUrl": "https://authenservice.nhso.go.th/authencode/api/user-info",
     "cookieDomain": "authenservice.nhso.go.th"
-  }
+  },
+  "version_name": "Beta [2025-06-13 19:00:03]"
 }
