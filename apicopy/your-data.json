@@ -117,6 +117,7 @@
     "userInfoUrl": "https://authenservice.nhso.go.th/authencode/api/user-info",
     "cookieDomain": "authenservice.nhso.go.th"
   },
+  "cupnp_tool_excel": 1,
   "version_name": "Beta [2025-06-13 19:00:03]",
   "app_enable": 1,
   "app_alert": 0,
